@@ -1,9 +1,16 @@
 # QPSK
-#Aim
-Write a Python program for the modulation and demodulation of FSK.
-#Tools Required
-#Program
+# Aim
+Write a Python program for the modulation and demodulation of QPSK.
+# Tools required
+# Program
+```
 Attach the program
-#Output Waveform
-Attach the Output waveform
-#Results
+```
+# Output Waveform
+```
+Attach the output waveform
+```
+# Results
+```
+Attach the output waveform
+```
