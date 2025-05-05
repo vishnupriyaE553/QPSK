@@ -87,9 +87,10 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f110c303-45d2-4597-8be2-c1e691a43aa5)
 
 
-#Hardware Experiment Waveform
+# Hardware Experiment Waveform
 
-![WhatsApp Image 2025-05-05 at 14 20 46_c1241a14](https://github.com/user-attachments/assets/03af89b3-6c9b-46e3-943e-2dfb6ba98374)
+![WhatsApp Image 2025-05-05 at 14 20 46_f69618be](https://github.com/user-attachments/assets/f281da0f-601e-4076-bb86-695b3e1ad3ad)
+
 
 
 # Results
